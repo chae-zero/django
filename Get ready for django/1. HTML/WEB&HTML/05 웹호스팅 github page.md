@@ -15,3 +15,5 @@ http:
 
 5500
 - web port 번호
+
+web2 - dns , HTTP
